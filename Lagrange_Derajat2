@@ -1,0 +1,44 @@
+📊 Interpolasi Lagrange untuk Pendekatan Nilai Fungsi
+Deskripsi
+Project ini membahas implementasi metode Interpolasi Lagrange untuk melakukan pendekatan nilai fungsi pada titik tertentu menggunakan data numerik yang tersedia.
+Metode Lagrange digunakan untuk membentuk polinom interpolasi dari beberapa titik data sehingga nilai fungsi yang belum diketahui dapat diperkirakan secara numerik.
+
+Data
+| x | f(x) |
+|---|------|
+| 0.6 | -0.17694460 |
+| 0.7 | 0.01375227 |
+| 0.8 | 0.22363362 |
+
+Target:  
+f(0.75)
+
+Hasil pendekatan:  
+f(0.75) = 0.116295
+
+Metode yang Digunakan
+- Interpolasi Lagrange
+- Polinom Lagrange
+- Pendekatan nilai fungsi numerik
+- Microsoft Excel
+
+Hasil
+Metode berhasil digunakan untuk menghitung pendekatan nilai fungsi pada titik yang tidak tersedia dalam data dengan hasil estimasi numerik yang baik.
+
+Tujuan Project
+- Memahami konsep interpolasi numerik
+- Mempelajari metode Interpolasi Lagrange
+- Mengimplementasikan pendekatan fungsi menggunakan Excel
+- Melatih analisis data numerik
+
+Insight
+Interpolasi Lagrange mempermudah pendekatan nilai fungsi karena polinom dibentuk langsung dari titik-titik data yang tersedia tanpa perlu tabel divided difference.
+
+Tools
+- Microsoft Excel
+- Metode Numerik
+
+Penutup
+Project ini merupakan latihan implementasi metode numerik untuk memahami proses interpolasi dan pendekatan nilai fungsi secara sistematis dan aplikatif.
+
+#MetodeNumerik #InterpolasiLagrange #Excel #NumericalMethod
